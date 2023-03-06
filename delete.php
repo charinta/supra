@@ -1,4 +1,5 @@
 <?php
+// detel data
 session_start();
 include("koneksi.php");
 $id_pembayaran=$_GET['id_pembayaran'];
